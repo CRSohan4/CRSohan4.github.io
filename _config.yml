@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "i am sohan"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Building a Beautiful AI
 
-email: a-mail@mail.mail
+email: sohan.m.kulkarni@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
